@@ -1,3 +1,6 @@
 *.log
 *.pdf
 *.aux
+*.gz
+*fls
+*latexmk
